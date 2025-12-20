@@ -12,3 +12,6 @@ notebooks/wandb/
 # Temporary / local artifacts
 temp/
 *.log
+
+data/cifar-10-python.tar.gz
+data/cifar-10-batches-py/
