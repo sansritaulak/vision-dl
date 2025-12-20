@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# W&B
+wandb/
+notebooks/wandb/
+
+# Temporary / local artifacts
+temp/
+*.log
