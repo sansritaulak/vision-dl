@@ -3,3 +3,4 @@ __pycache__/
 *.pt
 *.pth
 *.tar.gz
+data/cifar-10-python.tar.gz
