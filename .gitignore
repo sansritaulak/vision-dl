@@ -1,17 +1,5 @@
-# Python
+data/
 __pycache__/
-*.pyc
-
-# Jupyter
-.ipynb_checkpoints/
-
-# W&B
-wandb/
-notebooks/wandb/
-
-# Temporary / local artifacts
-temp/
-*.log
-
-data/cifar-10-python.tar.gz
-data/cifar-10-batches-py/
+*.pt
+*.pth
+*.tar.gz

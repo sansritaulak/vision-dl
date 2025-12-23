@@ -1,0 +1,30 @@
+{"time":"2025-12-04T15:37:13.1952493+05:45","level":"INFO","msg":"stream: starting","core version":"0.23.0"}
+{"time":"2025-12-04T15:37:13.8768786+05:45","level":"INFO","msg":"stream: created new stream","id":"1wqsyoh1"}
+{"time":"2025-12-04T15:37:13.8768786+05:45","level":"INFO","msg":"handler: started","stream_id":"1wqsyoh1"}
+{"time":"2025-12-04T15:37:13.8897887+05:45","level":"INFO","msg":"writer: started","stream_id":"1wqsyoh1"}
+{"time":"2025-12-04T15:37:13.8897887+05:45","level":"INFO","msg":"sender: started","stream_id":"1wqsyoh1"}
+{"time":"2025-12-04T15:37:13.8897887+05:45","level":"INFO","msg":"stream: started","id":"1wqsyoh1"}
+{"time":"2025-12-04T15:39:47.4624885+05:45","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 192.168.20.102:51791->35.186.228.49:443: wsarecv: An established connection was aborted by the software in your host machine."}
+{"time":"2025-12-04T15:39:48.4732332+05:45","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/usansrita-kathmandu-university/cifar10-week3/1wqsyoh1/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-12-04T15:39:50.0386504+05:45","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-12-04T15:39:50.5313144+05:45","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/usansrita-kathmandu-university/cifar10-week3/1wqsyoh1/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-12-04T15:40:15.795899+05:45","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp 35.186.228.49:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2025-12-04T15:40:16.3671602+05:45","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/usansrita-kathmandu-university/cifar10-week3/1wqsyoh1/file_stream\": dial tcp 35.186.228.49:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2025-12-04T15:40:45.5569669+05:45","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp 35.186.228.49:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2025-12-04T15:40:47.3512194+05:45","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/usansrita-kathmandu-university/cifar10-week3/1wqsyoh1/file_stream\": dial tcp 35.186.228.49:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2025-12-04T15:41:04.2710372+05:45","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/usansrita-kathmandu-university/cifar10-week3/1wqsyoh1/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-12-04T15:41:05.4294616+05:45","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-12-04T15:41:37.9646983+05:45","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/usansrita-kathmandu-university/cifar10-week3/1wqsyoh1/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-12-04T15:41:40.6887715+05:45","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-12-04T15:42:37.9753349+05:45","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/usansrita-kathmandu-university/cifar10-week3/1wqsyoh1/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-12-04T15:42:40.692951+05:45","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-12-04T15:43:29.84243+05:45","level":"INFO","msg":"flowcontrol: backed up, offloading to disk","recordNumber":63}
+{"time":"2025-12-04T15:43:41.1235248+05:45","level":"INFO","msg":"flowcontrol: unblocked","totalOffloaded":3}
+{"time":"2025-12-04T15:51:52.5907564+05:45","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 192.168.20.102:57765->35.186.228.49:443: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2025-12-04T15:52:02.1719119+05:45","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/usansrita-kathmandu-university/cifar10-week3/1wqsyoh1/file_stream\": dial tcp 35.186.228.49:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2025-12-04T16:21:46.2380453+05:45","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-12-04T16:21:46.7349035+05:45","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-12-04T16:21:46.7465265+05:45","level":"INFO","msg":"stream: closing","id":"1wqsyoh1"}
+{"time":"2025-12-04T16:21:46.7465265+05:45","level":"INFO","msg":"handler: closed","stream_id":"1wqsyoh1"}
+{"time":"2025-12-04T16:21:46.7481894+05:45","level":"INFO","msg":"sender: closed","stream_id":"1wqsyoh1"}
+{"time":"2025-12-04T16:21:46.7481894+05:45","level":"INFO","msg":"stream: closed","id":"1wqsyoh1"}

@@ -1,0 +1,12 @@
+{"time":"2025-12-08T12:02:12.4991997+05:45","level":"INFO","msg":"stream: starting","core version":"0.23.0"}
+{"time":"2025-12-08T12:02:13.0066686+05:45","level":"INFO","msg":"stream: created new stream","id":"cec4gark"}
+{"time":"2025-12-08T12:02:13.0066686+05:45","level":"INFO","msg":"handler: started","stream_id":"cec4gark"}
+{"time":"2025-12-08T12:02:13.0082432+05:45","level":"INFO","msg":"stream: started","id":"cec4gark"}
+{"time":"2025-12-08T12:02:13.0082432+05:45","level":"INFO","msg":"sender: started","stream_id":"cec4gark"}
+{"time":"2025-12-08T12:02:13.0082432+05:45","level":"INFO","msg":"writer: started","stream_id":"cec4gark"}
+{"time":"2025-12-08T12:06:48.7685551+05:45","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-12-08T12:06:49.3077744+05:45","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-12-08T12:06:49.3144549+05:45","level":"INFO","msg":"stream: closing","id":"cec4gark"}
+{"time":"2025-12-08T12:06:49.3144549+05:45","level":"INFO","msg":"handler: closed","stream_id":"cec4gark"}
+{"time":"2025-12-08T12:06:49.3149597+05:45","level":"INFO","msg":"sender: closed","stream_id":"cec4gark"}
+{"time":"2025-12-08T12:06:49.3149597+05:45","level":"INFO","msg":"stream: closed","id":"cec4gark"}

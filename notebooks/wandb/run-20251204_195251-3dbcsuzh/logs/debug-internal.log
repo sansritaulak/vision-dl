@@ -1,0 +1,12 @@
+{"time":"2025-12-04T19:52:51.800698+05:45","level":"INFO","msg":"stream: starting","core version":"0.23.0"}
+{"time":"2025-12-04T19:52:52.2614607+05:45","level":"INFO","msg":"stream: created new stream","id":"3dbcsuzh"}
+{"time":"2025-12-04T19:52:52.2619782+05:45","level":"INFO","msg":"handler: started","stream_id":"3dbcsuzh"}
+{"time":"2025-12-04T19:52:52.2641751+05:45","level":"INFO","msg":"stream: started","id":"3dbcsuzh"}
+{"time":"2025-12-04T19:52:52.2641751+05:45","level":"INFO","msg":"writer: started","stream_id":"3dbcsuzh"}
+{"time":"2025-12-04T19:52:52.2641751+05:45","level":"INFO","msg":"sender: started","stream_id":"3dbcsuzh"}
+{"time":"2025-12-04T20:06:20.3723022+05:45","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-12-04T20:06:21.3009191+05:45","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-12-04T20:06:21.309028+05:45","level":"INFO","msg":"stream: closing","id":"3dbcsuzh"}
+{"time":"2025-12-04T20:06:21.309028+05:45","level":"INFO","msg":"handler: closed","stream_id":"3dbcsuzh"}
+{"time":"2025-12-04T20:06:21.3095318+05:45","level":"INFO","msg":"sender: closed","stream_id":"3dbcsuzh"}
+{"time":"2025-12-04T20:06:21.3095318+05:45","level":"INFO","msg":"stream: closed","id":"3dbcsuzh"}

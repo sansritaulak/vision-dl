@@ -1,0 +1,31 @@
+2025-12-04 14:50:24,619 INFO    MainThread:35612 [wandb_setup.py:_flush():80] Current SDK version is 0.23.0
+2025-12-04 14:50:24,620 INFO    MainThread:35612 [wandb_setup.py:_flush():80] Configure stats pid to 35612
+2025-12-04 14:50:24,620 INFO    MainThread:35612 [wandb_setup.py:_flush():80] Loading settings from C:\Users\usans\.config\wandb\settings
+2025-12-04 14:50:24,620 INFO    MainThread:35612 [wandb_setup.py:_flush():80] Loading settings from c:\cifar-week3\notebooks\wandb\settings
+2025-12-04 14:50:24,620 INFO    MainThread:35612 [wandb_setup.py:_flush():80] Loading settings from environment variables
+2025-12-04 14:50:24,620 INFO    MainThread:35612 [wandb_init.py:setup_run_log_directory():713] Logging user logs to c:\cifar-week3\notebooks\wandb\run-20251204_145024-78s28me5\logs\debug.log
+2025-12-04 14:50:24,621 INFO    MainThread:35612 [wandb_init.py:setup_run_log_directory():714] Logging internal logs to c:\cifar-week3\notebooks\wandb\run-20251204_145024-78s28me5\logs\debug-internal.log
+2025-12-04 14:50:24,621 INFO    MainThread:35612 [wandb_init.py:monkeypatch_ipython():632] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x000001830E52EE40>
+2025-12-04 14:50:24,624 INFO    MainThread:35612 [wandb_init.py:init():840] calling init triggers
+2025-12-04 14:50:24,624 INFO    MainThread:35612 [wandb_init.py:init():845] wandb.init called with sweep_config: {}
+config: {'model': 'resnet18', 'unfreeze': [], 'epochs': 25, '_wandb': {}}
+2025-12-04 14:50:24,625 INFO    MainThread:35612 [wandb_init.py:init():888] starting backend
+2025-12-04 14:50:27,644 INFO    MainThread:35612 [wandb_init.py:init():891] sending inform_init request
+2025-12-04 14:50:27,697 INFO    MainThread:35612 [wandb_init.py:init():899] backend started and connected
+2025-12-04 14:50:27,702 INFO    MainThread:35612 [wandb_run.py:_label_probe_notebook():1323] probe notebook
+2025-12-04 14:50:27,726 INFO    MainThread:35612 [wandb_init.py:init():969] updated telemetry
+2025-12-04 14:50:28,092 INFO    MainThread:35612 [wandb_init.py:init():993] communicating run to backend with 90.0 second timeout
+2025-12-04 14:50:29,078 INFO    MainThread:35612 [wandb_init.py:init():1040] starting run threads in backend
+2025-12-04 14:50:29,466 INFO    MainThread:35612 [wandb_run.py:_console_start():2504] atexit reg
+2025-12-04 14:50:29,467 INFO    MainThread:35612 [wandb_run.py:_redirect():2352] redirect: wrap_raw
+2025-12-04 14:50:29,467 INFO    MainThread:35612 [wandb_run.py:_redirect():2421] Wrapping output streams.
+2025-12-04 14:50:29,467 INFO    MainThread:35612 [wandb_run.py:_redirect():2444] Redirects installed.
+2025-12-04 14:50:29,477 INFO    MainThread:35612 [wandb_init.py:init():1080] run started, returning control to user process
+2025-12-04 15:37:02,260 INFO    MainThread:35612 [wandb_run.py:_finish():2270] finishing run usansrita-kathmandu-university/cifar10-week3/78s28me5
+2025-12-04 15:37:02,605 INFO    MainThread:35612 [jupyter.py:save_history():435] not saving jupyter history
+2025-12-04 15:37:02,605 INFO    MainThread:35612 [jupyter.py:save_ipynb():359] not saving jupyter notebook
+2025-12-04 15:37:02,605 INFO    MainThread:35612 [wandb_init.py:_jupyter_teardown():617] cleaning up jupyter logic
+2025-12-04 15:37:02,605 INFO    MainThread:35612 [wandb_run.py:_atexit_cleanup():2469] got exitcode: 0
+2025-12-04 15:37:02,606 INFO    MainThread:35612 [wandb_run.py:_restore():2451] restore
+2025-12-04 15:37:02,607 INFO    MainThread:35612 [wandb_run.py:_restore():2457] restore done
+2025-12-04 15:37:13,160 INFO    MainThread:35612 [wandb_run.py:_footer_sync_info():3853] logging synced files

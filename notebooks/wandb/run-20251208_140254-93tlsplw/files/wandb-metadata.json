@@ -1,0 +1,36 @@
+{
+  "os": "Windows-11-10.0.26200-SP0",
+  "python": "CPython 3.13.9",
+  "startedAt": "2025-12-08T08:17:54.874914Z",
+  "program": "c:\\cifar-week3\\notebooks\\04_.ipynb",
+  "codePath": "c:\\cifar-week3\\notebooks\\04_.ipynb",
+  "codePathLocal": "04_.ipynb",
+  "email": "usansrita@gmail.com",
+  "root": "c:\\cifar-week3\\notebooks",
+  "host": "Sans",
+  "executable": "c:\\cifar-week3\\venv\\Scripts\\python.exe",
+  "cpu_count": 8,
+  "cpu_count_logical": 16,
+  "gpu": "NVIDIA GeForce RTX 3060 Laptop GPU",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "476690321408",
+      "used": "316710404096"
+    }
+  },
+  "memory": {
+    "total": "16542732288"
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA GeForce RTX 3060 Laptop GPU",
+      "memoryTotal": "6442450944",
+      "cudaCores": 3840,
+      "architecture": "Ampere",
+      "uuid": "GPU-68085c59-512c-06bb-e133-c2b6ab672a12"
+    }
+  ],
+  "cudaVersion": "12.4",
+  "writerId": "kfkwonozfca01bsqabhpowfv3b9f8zbz"
+}
